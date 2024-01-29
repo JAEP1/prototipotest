@@ -48,6 +48,7 @@ body{
     height: auto;
     max-height: 100vh;
     object-fit: cover;
+    
   }
   
   .img-container::before {
