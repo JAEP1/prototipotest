@@ -184,13 +184,18 @@ body{
       overflow: hidden; /* Evita que haya desbordamiento en caso de contenido adicional */
       background-color: #22264F;
     }
+
+  .contenido-section3{
+    margin-bottom: 5rem;
+    margin-top: 5rem;
+  }
     
   
   .img-info{
     width: 50%;
    /*  background-color: transpare  nt;
    border: 3px solid#FAB719; */
-   margin-bottom: 10rem;
+   /*margin-bottom: 10rem;*/
   
   }
 
@@ -232,3 +237,4 @@ margin-bottom: 2rem;
   background-color: white;
   margin-bottom: 10rem;
 }
+
